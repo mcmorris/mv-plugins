@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date Feb 13, 2016
  * @filename BBS_OrgOptionsMenu.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.03 Organizes options menu into categories.  No more disorganized
  * options menu!  Designed to hook in to option menu additions from other plugins 
