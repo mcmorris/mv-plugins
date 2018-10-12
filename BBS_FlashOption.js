@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date Aug 28, 2016
  * @filename BBS_FlashOption.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.02 Adds user option to enable/disable screen flashes for those
  * with sensitive eyes.
