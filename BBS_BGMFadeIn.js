@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date Aug 28, 2016
  * @filename BBS_BGMFadeIn.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.02 Allows for the current playing BGM and BGS to fade in instead of starting abruptly.
  * Special Thanks to Tsukihime for all the help.
