@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date Oct 12, 2016
  * @filename BBS_TermWindow.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.04 Allows a popup help window to explain game terms while
  * and only while a message box (dialogue) is open.
