@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date Aug 28, 2016
  * @filename BBS_BGMFadeIn.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.04 Adds context sensitive HUD during Scene_Map.  Also adds context
  * sensitive icons either all the time, when near an event with context, or never
