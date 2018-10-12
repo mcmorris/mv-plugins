@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date Feb 11, 2016
  * @filename BBS_WorldMap.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v2.01 Have your own comprehensive World Map system!
  * @author Michael Morris
