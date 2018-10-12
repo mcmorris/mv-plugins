@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date Feb 19, 2016
  * @filename BBS_RandomConversations.js
- * If you enjoy/benefit from my work, please support me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.04 Add random dialogue for a specific topic to your game.
  * This allows you to pick a random (unlocked) rumor to share, pick a hint at random, given
