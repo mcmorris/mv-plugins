@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date May 29, 2017
  * @filename BBS_VersionDisplay.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.02 Adds display of the game version to the title screen.
  * Special Thanks to Tsukihime for all the help.
