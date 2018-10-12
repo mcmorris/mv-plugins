@@ -9,10 +9,7 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date May 4, 2017
  * @filename BBS_DifficultyLevels.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
- *
+ * 
  * @plugindesc v1.03a Adds support for multiple battle and riddle difficulty levels!
  * UI functions based on Atreyo Ray's ARP_InGameManual.js
  * Special Thanks to Tsukihime for all the help.
