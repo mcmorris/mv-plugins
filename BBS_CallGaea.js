@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date Oct 20, 2016
  * @filename BBS_CallGaea.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.01 Enables a button that calls Gaea, disables until Common Event
  * processing is over, makes a button appear on screen with Gaea (reminder), etc.
