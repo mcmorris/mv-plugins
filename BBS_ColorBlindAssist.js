@@ -9,9 +9,6 @@
  * @author Michael Morris (https://www.patreon.com/bluebooth)
  * @date May 5, 2017
  * @filename BBS_ColorBlindAssist.js
- * If you enjoy my work, consider supporting me on Patreon!
- *
- * https://www.patreon.com/bluebooth
  *
  * @plugindesc v1.01 Includes a number of small fixes to make RPGMaker MV
  * games easier to play for people with color blindness.
